@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/bin/Debug/net6.0/ShortUnpacking
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/bin/Debug/net6.0/ShortUnpacking.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/bin/Debug/net6.0/ShortUnpacking.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/bin/Debug/net6.0/ShortUnpacking.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/bin/Debug/net6.0/ShortUnpacking.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/refint/ShortUnpacking.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ShortUnpacking.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/ShortUnpacking/ShortUnpacking/obj/Debug/net6.0/ref/ShortUnpacking.dll

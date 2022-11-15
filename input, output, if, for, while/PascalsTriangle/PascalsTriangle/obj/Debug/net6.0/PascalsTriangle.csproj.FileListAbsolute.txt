@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/bin/Debug/net6.0/PascalsTriangle
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/bin/Debug/net6.0/PascalsTriangle.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/bin/Debug/net6.0/PascalsTriangle.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/bin/Debug/net6.0/PascalsTriangle.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/bin/Debug/net6.0/PascalsTriangle.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/refint/PascalsTriangle.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/PascalsTriangle.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/1 Ввод, вывод, условные операторы, циклы/PascalsTriangle/PascalsTriangle/obj/Debug/net6.0/ref/PascalsTriangle.dll

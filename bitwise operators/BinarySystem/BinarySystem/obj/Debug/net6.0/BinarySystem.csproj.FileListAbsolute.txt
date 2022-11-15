@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/bin/Debug/net6.0/BinarySystem
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/bin/Debug/net6.0/BinarySystem.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/bin/Debug/net6.0/BinarySystem.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/bin/Debug/net6.0/BinarySystem.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/bin/Debug/net6.0/BinarySystem.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/refint/BinarySystem.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/BinarySystem.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/BinarySystem/BinarySystem/obj/Debug/net6.0/ref/BinarySystem.dll

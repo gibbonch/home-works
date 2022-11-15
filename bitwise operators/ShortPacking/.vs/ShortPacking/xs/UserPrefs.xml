@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{80EA4CA4-E412-4E2F-A3E7-C407B6E4B298}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShortPacking/Program.cs">
+    <Files>
+      <File FileName="ShortPacking/Program.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShortPacking" expanded="True">
+            <Node name="ShortPacking" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShortPacking PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

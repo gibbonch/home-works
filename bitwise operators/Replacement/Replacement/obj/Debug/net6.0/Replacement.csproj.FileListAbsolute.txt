@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/bin/Debug/net6.0/Replacement
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/bin/Debug/net6.0/Replacement.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/bin/Debug/net6.0/Replacement.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/bin/Debug/net6.0/Replacement.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/bin/Debug/net6.0/Replacement.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/refint/Replacement.dll
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/Replacement.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/ToropovHW/2 Побитовые операции/Replacement/Replacement/obj/Debug/net6.0/ref/Replacement.dll
