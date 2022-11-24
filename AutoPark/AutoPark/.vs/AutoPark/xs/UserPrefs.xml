@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{62D0A53F-C0D6-4E21-9644-C19591C5656B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AutoPark PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassengerCar.cs">
+    <Files>
+      <File FileName="Program.cs" Line="47" Column="22" />
+      <File FileName="Car.cs" Line="22" Column="1" />
+      <File FileName="PassengerCar.cs" Line="28" Column="32" />
+      <File FileName="Truck.cs" Line="13" Column="31" />
+      <File FileName="Autopark.cs" Line="27" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoPark" expanded="True">
+            <Node name="AutoPark" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

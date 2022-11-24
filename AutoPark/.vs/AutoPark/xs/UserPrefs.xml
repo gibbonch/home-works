@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8D5CE5AE-D112-4B44-8271-4CC93488E648}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoPark/Program.cs">
+    <Files>
+      <File FileName="AutoPark/Program.cs" Line="9" Column="13" />
+      <File FileName="AutoPark/Car.cs" Line="18" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoPark" expanded="True">
+            <Node name="AutoPark" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AutoPark FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

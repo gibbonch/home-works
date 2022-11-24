@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/bin/Debug/net6.0/AutoPark
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/bin/Debug/net6.0/AutoPark.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/bin/Debug/net6.0/AutoPark.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/bin/Debug/net6.0/AutoPark.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/bin/Debug/net6.0/AutoPark.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/refint/AutoPark.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/AutoPark.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/AutoPark/AutoPark/obj/Debug/net6.0/ref/AutoPark.dll
