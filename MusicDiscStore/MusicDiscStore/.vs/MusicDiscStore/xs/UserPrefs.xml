@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{91045CC0-BC63-4FBC-9101-CAA73CD4B9AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.MusicDiscStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="83" />
+      <File FileName="IStoreItem.cs" Line="7" Column="35" />
+      <File FileName="Disc.cs" Line="17" Column="10" />
+      <File FileName="Audio.cs" Line="27" Column="58" />
+      <File FileName="DVD.cs" Line="17" Column="42" />
+      <File FileName="Store.cs" Line="76" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicDiscStore" expanded="True">
+            <Node name="MusicDiscStore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

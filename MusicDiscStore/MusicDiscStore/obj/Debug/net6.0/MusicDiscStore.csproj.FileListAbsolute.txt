@@ -1,0 +1,15 @@
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/bin/Debug/net6.0/MusicDiscStore
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/bin/Debug/net6.0/MusicDiscStore.deps.json
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/bin/Debug/net6.0/MusicDiscStore.runtimeconfig.json
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/bin/Debug/net6.0/MusicDiscStore.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/bin/Debug/net6.0/MusicDiscStore.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.csproj.AssemblyReference.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.AssemblyInfoInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.AssemblyInfo.cs
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.csproj.CoreCompileInputs.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/refint/MusicDiscStore.dll
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.pdb
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/MusicDiscStore.genruntimeconfig.cache
+/Users/aleksandrtoropov/Desktop/code/c#/MyHomeWorks/MusicDiscStore/MusicDiscStore/obj/Debug/net6.0/ref/MusicDiscStore.dll
