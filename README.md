@@ -12,6 +12,7 @@
 Массивы                                 | 🟢    | <a href="https://github.com/gibbonch/home-works/tree/main/arrays">Перейти</a>
 Автопарк                                | 🟢    | <a href="https://github.com/gibbonch/home-works/tree/main/AutoPark">Перейти</a>
 Магазин дисков                                | 🟡    | <a href="https://github.com/gibbonch/home-works/tree/main/MusicDiscStore">Перейти</a>
+Практика №1. Кодовый замок                              | 🟡    | <a href="https://github.com/gibbonch/home-works/tree/main/CodeLocker">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
