@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D21C3655-A0EF-4E42-9952-5E28BB90938D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodeLocker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9AEE9DB4-AFC0-47F1-9207-E2F8CB41E66C" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9AEE9DB4-AFC0-47F1-9207-E2F8CB41E66C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeLocker/MainPage.xaml">
+    <Files>
+      <File FileName="CodeLocker/MainPage.xaml.cs" />
+      <File FileName="CodeLocker/MainPage.xaml" Line="91" Column="1" />
+      <File FileName="CodeLocker/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="CodeLocker/App.xaml" Line="12" Column="29" />
+      <File FileName="CodeLocker/Resources/Styles/Styles.xaml" Line="19" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeLocker" expanded="True">
+            <Node name="CodeLocker" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

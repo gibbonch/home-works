@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CodeLocker.MainPage">
+
+    <Grid
+        RowDefinitions="0.3*, 1.2*, *, *, *, *, 0.5*"
+        ColumnDefinitions="0.2*, *, *, *, 0.2*">
+
+        <Label
+            x:Name="InfoLabel"
+            Grid.Row="0"
+            Grid.ColumnSpan="5"
+            FontAttributes="Bold"
+            FontSize="14"
+            HorizontalTextAlignment="Center"
+            Text="Введите PIN-код"
+            TextColor="White"
+            VerticalTextAlignment="End" />
+
+        <Label
+            x:Name="DisplayLabel"
+            Grid.Row="1"
+            Grid.ColumnSpan="5"
+            BackgroundColor="#181818"
+            FontAttributes="Bold"
+            FontSize="48"
+            HorizontalTextAlignment="Center"
+            TextColor="White"
+            VerticalTextAlignment="Center" />
+
+         <Button
+            Grid.Row="2"
+            Grid.Column="1"
+            Text="1"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="2"
+            Grid.Column="2"
+            Text="2"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="2"
+            Grid.Column="3"
+            Text="3"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="3"
+            Grid.Column="1"
+            Text="4"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="3"
+            Grid.Column="2"
+            Text="5"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="3"
+            Grid.Column="3"
+            Text="6"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="4"
+            Grid.Column="1"
+            Text="7"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="4"
+            Grid.Column="2"
+            Text="8"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="4"
+            Grid.Column="3"
+            Text="9"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="5"
+            Grid.Column="1"
+            Text="✗"
+            Clicked="onClear"/>
+
+        <Button
+            Grid.Row="5"
+            Grid.Column="2"
+            Text="0"
+            Clicked="DigitClicked"/>
+
+        <Button
+            Grid.Row="5"
+            Grid.Column="3"
+            Text="✓"
+            Clicked="PassChecker"/>
+
+        <ImageButton
+            Source="icon.png"
+            MaximumWidthRequest="50"
+            HorizontalOptions="Center"
+            Grid.Column="2"
+            Grid.Row="6"/>
+
+    </Grid>
+
+</ContentPage>
+
